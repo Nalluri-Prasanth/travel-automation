@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/travel-automation/static/css/main.073c9b0a.css",
+    "main.js": "/travel-automation/static/js/main.78cf413c.js",
+    "static/js/787.01a494b3.chunk.js": "/travel-automation/static/js/787.01a494b3.chunk.js",
+    "static/media/logo.svg": "/travel-automation/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/travel-automation/index.html",
+    "main.073c9b0a.css.map": "/travel-automation/static/css/main.073c9b0a.css.map",
+    "main.78cf413c.js.map": "/travel-automation/static/js/main.78cf413c.js.map",
+    "787.01a494b3.chunk.js.map": "/travel-automation/static/js/787.01a494b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.78cf413c.js"
+  ]
+}
