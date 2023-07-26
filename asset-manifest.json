@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/travel-automation/static/css/main.073c9b0a.css",
-    "main.js": "/travel-automation/static/js/main.78cf413c.js",
+    "main.css": "/travel-automation/static/css/main.efadf488.css",
+    "main.js": "/travel-automation/static/js/main.f0b7fc75.js",
     "static/js/787.01a494b3.chunk.js": "/travel-automation/static/js/787.01a494b3.chunk.js",
-    "static/media/logo.svg": "/travel-automation/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/a2.jpg": "/travel-automation/static/media/a2.6d03b7691d2502aa1cbc.jpg",
+    "static/media/a1.jpg": "/travel-automation/static/media/a1.37267b97171bfd1d1948.jpg",
+    "static/media/paris2.jpg": "/travel-automation/static/media/paris2.750ecfcc284bef2830e3.jpg",
+    "static/media/trip1.jpg": "/travel-automation/static/media/trip1.13e66f8d22357bcd9f03.jpg",
+    "static/media/a3.jpg": "/travel-automation/static/media/a3.8418a17c5f8c0bdc2111.jpg",
+    "static/media/v1.jpg": "/travel-automation/static/media/v1.e6d2b361ed04572c6c1b.jpg",
+    "static/media/v2.jpg": "/travel-automation/static/media/v2.0d87f9998577888f54f7.jpg",
+    "static/media/trip3.jpg": "/travel-automation/static/media/trip3.223c21ad82c6cdeebd25.jpg",
+    "static/media/paris.jpg": "/travel-automation/static/media/paris.1b7745e7c3d41eaa3583.jpg",
+    "static/media/trip2.jpg": "/travel-automation/static/media/trip2.bf36d1d5e8679ac7c1a4.jpg",
     "index.html": "/travel-automation/index.html",
-    "main.073c9b0a.css.map": "/travel-automation/static/css/main.073c9b0a.css.map",
-    "main.78cf413c.js.map": "/travel-automation/static/js/main.78cf413c.js.map",
+    "main.efadf488.css.map": "/travel-automation/static/css/main.efadf488.css.map",
+    "main.f0b7fc75.js.map": "/travel-automation/static/js/main.f0b7fc75.js.map",
     "787.01a494b3.chunk.js.map": "/travel-automation/static/js/787.01a494b3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.78cf413c.js"
+    "static/css/main.efadf488.css",
+    "static/js/main.f0b7fc75.js"
   ]
 }
