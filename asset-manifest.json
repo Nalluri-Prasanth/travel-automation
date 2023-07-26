@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/travel-automation/static/css/main.efadf488.css",
-    "main.js": "/travel-automation/static/js/main.f0b7fc75.js",
+    "main.js": "/travel-automation/static/js/main.f416407a.js",
     "static/js/787.01a494b3.chunk.js": "/travel-automation/static/js/787.01a494b3.chunk.js",
     "static/media/a2.jpg": "/travel-automation/static/media/a2.6d03b7691d2502aa1cbc.jpg",
     "static/media/a1.jpg": "/travel-automation/static/media/a1.37267b97171bfd1d1948.jpg",
@@ -15,11 +15,11 @@
     "static/media/trip2.jpg": "/travel-automation/static/media/trip2.bf36d1d5e8679ac7c1a4.jpg",
     "index.html": "/travel-automation/index.html",
     "main.efadf488.css.map": "/travel-automation/static/css/main.efadf488.css.map",
-    "main.f0b7fc75.js.map": "/travel-automation/static/js/main.f0b7fc75.js.map",
+    "main.f416407a.js.map": "/travel-automation/static/js/main.f416407a.js.map",
     "787.01a494b3.chunk.js.map": "/travel-automation/static/js/787.01a494b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.efadf488.css",
-    "static/js/main.f0b7fc75.js"
+    "static/js/main.f416407a.js"
   ]
 }
